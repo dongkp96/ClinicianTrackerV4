@@ -1,9 +1,30 @@
 # ClinicianTrackerV4
 
-This Clinician Tracker Web Application is designed for the COSC 630 course utilizing HTML/CSS/JavaScript and the LAMP stack. This project serves as a display of the learning I had accomplished to complete this course. 
-This repository will hold all the code for the project including: HTML/CSS/JS/PHP 
+This Clinician Tracker Web Application was developed for the COSC 630 course using **HTML**, **CSS**, **JavaScript**, and the **LAMP stack**. The purpose of this project is to demonstrate the skills and concepts I’ve learned throughout the course.
 
-The features of this web application include:
--Clinician Selection Page: Allows for adding of clinician, selection of clinician, clinician deletion and login
--Patient Selection Page: Allows for adding of patients, selection of patients, patient deletion, and button to go to patient profile
--Patient Profile Page: Allows for display of patient information, displaying of pain and function charts, addition of notes, editing of notes, deletion of notes, returning to patient selection, and logging out of clinician
+This repository contains all source code including:
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+## 🔧 Features
+
+- **Clinician Selection Page**  
+  - Add new clinicians  
+  - Select a clinician  
+  - Delete clinicians  
+  - Login interface for clinicians
+
+- **Patient Selection Page**  
+  - Add new patients  
+  - Select a patient  
+  - Delete patients  
+  - Navigate to the patient profile page
+
+- **Patient Profile Page**  
+  - View patient information (name, diagnosis, etc.)  
+  - Display pain and function charts over time  
+  - Add, edit, and delete visit notes  
+  - Return to patient selection page  
+  - Log out and return to clinician selection  
